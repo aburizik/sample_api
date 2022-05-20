@@ -1,6 +1,6 @@
 # Start server locally
 
-```bundle install``
+```bundle install```
 
 ```ruby entrypoint.rb```
 
